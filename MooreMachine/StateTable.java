@@ -126,7 +126,7 @@ public class StateTable extends javax.swing.JFrame {
                             control++; // any input is empty 
                     }
                     if(control > 0){
-                        JOptionPane.showMessageDialog(null, "Gerekli Alanları Doldurunuz");
+                        JOptionPane.showMessageDialog(null, "Fill in the Required Fields");
                         break;
                     }
                 }
@@ -134,7 +134,7 @@ public class StateTable extends javax.swing.JFrame {
                 for(int i = 0; i < table.getRowCount(); i++){
                     if(table.getValueAt(i, table.getColumnCount()-1).equals("")){
                         control++;
-                        JOptionPane.showMessageDialog(null, "Outputs Alanlarını Doldurunuz");
+                        JOptionPane.showMessageDialog(null, "Fill Out the Output Fields");
                         break;
                     }
                 }

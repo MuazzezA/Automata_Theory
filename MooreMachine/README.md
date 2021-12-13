@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/64336826/145714133-bb3179ce-ccca-4bdc-8949-c2e6ce1bd1d9.png)
-The state diagram for Moore Machine is      
+The state diagram for Moore Machine      
 
 
 ![image](https://user-images.githubusercontent.com/64336826/145714188-9c2d7e6c-ee2d-40a1-ad1b-b68ccd6b14ea.png)
-Transition (state) table for Moore Machine is
+Transition (state) table for Moore Machine
 
 for more examples : https://www.javatpoint.com/automata-moore-machine
 

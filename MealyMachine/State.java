@@ -1,8 +1,6 @@
 
 package mealymachine;
 
-import java.util.Arrays;
-
 /**
  *
  * @author Muazzez
@@ -34,12 +32,6 @@ public class State {
     
     public int getIndex(){
         return index;
-    }
-    
-    public void connectState(String[] input, String[] output, State[] nextState){
-        this.input = input;
-        this.output = output;
-        this.nextState = nextState;
     }
     
     public void setIO(String input, String output){
